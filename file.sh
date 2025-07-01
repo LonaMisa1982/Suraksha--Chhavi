@@ -44,7 +44,7 @@ for ((i=1; i<=TOTAL_COMMITS; i++)); do
 
     # Stage and commit with the fake date
     GIT_AUTHOR_DATE=$COMMIT_TIMESTAMP GIT_COMMITTER_DATE=$COMMIT_TIMESTAMP git add .
-    GIT_AUTHOR_DATE=$COMMIT_TIMESTAMP GIT_COMMITTER_DATE=$COMMIT_TIMESTAMP git commit -m "Fake commit $i to $TARGET"
+    GIT_AUTHOR_DATE=$COMMIT_TIMESTAMP GIT_COMMITTER_DATE=$COMMIT_TIMESTAMP git commit -m "New Techstack Tweak $i to $TARGET"
 
     echo "Committed $i to $TARGET at $COMMIT_TIMESTAMP"
 done
