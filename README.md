@@ -1,4 +1,4 @@
-# Spatio-Temporal Dual-Attention Transformer for Time-Series Behavioral Biometrics
+# Chhavi - The Behaviour Based Authentication Model -------
 This repository contains code for our BehaveFormer framework on behaviour biometrics continuous identification using swipe data (scroll up and scroll down gestures), published in IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM, Q1 Journal) [\[IEEE link\]](https://ieeexplore.ieee.org/document/10510407) [\[free download\]](https://www.dropbox.com/scl/fi/5lxfacb7e9zj7019ncqp6/TBIOM3394875.pdf?rlkey=et3ryhn1baminwahjw2wyu773&dl=0).
 
 We extend the original BehaveFormer module built for keystroke data at [this repo](https://github.com/dilshansenarath/behaveformer) with several major changes: 
@@ -84,22 +84,3 @@ We include the best model weights for each experiment in [this folder](https://w
 [1]: A. Acien, A. Morales, J. Fierrez, R. Vera-Rodriguez, and O. Delgado-Mohatar, “Becaptcha: Behavioral bot detection using touchscreen and mobile sensors benchmarked on humidb,” Engineering Applications of Artificial Intelligence, vol. 98, p. 104058, 2021.
 
 [2]: M. Georgiev, S. Eberz, H. Turner, G. Lovisotto, and I. Martinovic, “Feta: Fair evaluation of touch-based authentication,” 2022. \[Online\]. Available: https://api.semanticscholar.org/CorpusID:255546212
-# fake commit 2 at 2025-07-01T11:43:22
-# fake commit 3 at 2025-07-01T12:39:48
-# fake commit 44 at 2025-07-01T02:58:45
-# fake commit 51 at 2025-07-01T04:43:53
-# fake commit 73 at 2025-07-01T16:22:34
-# fake commit 74 at 2025-07-01T18:27:24
-# fake commit 87 at 2025-07-01T00:00:44
-# fake commit 88 at 2025-07-01T13:35:47
-# fake commit 97 at 2025-07-01T04:31:40
-# fake commit 2 at 2025-07-01T08:20:42
-# fake commit 8 at 2025-07-01T08:52:02
-# fake commit 43 at 2025-07-01T14:23:48
-# fake commit 54 at 2025-07-01T18:22:58
-# fake commit 55 at 2025-07-01T21:16:49
-# fake commit 58 at 2025-07-01T11:21:36
-# fake commit 65 at 2025-07-01T10:56:31
-# fake commit 75 at 2025-07-01T20:53:50
-# fake commit 90 at 2025-07-01T08:27:59
-# fake commit 92 at 2025-07-01T05:59:48
